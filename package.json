@@ -1,6 +1,10 @@
 {
   "name": "project_syncfusion_dashboard",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.x"
+  },
+  
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
@@ -54,4 +58,5 @@
     "postcss": "^8.4.6",
     "tailwindcss": "^3.0.19"
   }
+  
 }
